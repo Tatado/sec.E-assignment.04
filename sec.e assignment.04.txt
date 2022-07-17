@@ -1,0 +1,58 @@
+1.
+Contextualise machine learning in your organisation.
+Explore the data and choose the type of algorithm.
+Prepare and clean the dataset.
+Split the prepared dataset and perform cross validation.
+Perform machine learning optimisation.
+Deploy the model.
+2.
+Most data can be categorized into 4 basic types from a Machine Learning perspective:
+ numerical data, categorical data, time-series data, and text.
+Some examples of numerical data are height, length, size, weight, and so on.
+ The quantitative data can be classified into two different types based on the data sets.
+ The two different classifications of numerical data are discrete data and continuous data.
+3.
+Categorical data refers to a data type that can be stored and identified based on the names or labels given to them.
+ Numerical data refers to the data that is in the form of numbers, and not in any language or descriptive form. 
+Also known as qualitative data as it qualifies data before classifying it.
+2.
+Feature selection keeps a subset of the original features while feature extraction creates brand new ones. 
+Dimensionality Reduction transforms feature into lower dimension.
+4.
+1.A histogram is a display of statistical information that uses rectangles to 
+show the frequency of data items in successive numerical intervals of equal size. 
+In the most common form of histogram, the independent variable is plotted along 
+the horizontal axis and the dependent variable is plotted along the vertical axis.
+3.Principal component analysis (PCA) is a technique used for identification of a smaller number of uncorrelated variables
+ known as principal components from a larger set of data.The technique is widely
+ used to emphasize variation and capture strong patterns in a data set.
+5.
+Data analysis is important in business to understand problems facing an organisation, and to explore data in meaningful ways. 
+Data in itself is merely facts and figures. Data analysis organises, interprets, structures and presents the data into
+ useful information that provides context for the data.
+Mixed methods are commonly used in health services research; however, data are not often integrated to explore complementarity of findings.
+6.
+Bell-shaped: A bell-shape , usually presents a normal distribution. Bimodal: A bimodal shape,has two peaks. 
+This shape  data has come from two different systems.
+Binning is a way to group a number of more or less continuous values into a smaller number of "bins". For example, if we have data about a group of people,
+ we might want to arrange their ages into a smaller number of age intervals.
+7.
+Drop the outlier records. In the case of Bill Gates, or another true outlier, sometimes it's best to completely remove that record from your dataset to keep that person or event from skewing your analysis.
+Cap your outliers data.
+Assign a new value. 
+Try a transformation.
+8.
+A measure of central tendency is an important aspect of quantitative data. It is an estimate of a “typical” value. 
+Three of the many ways to measure central tendency are the mean, median and mode.
+Mean is simple to use and can be applied to any data array set, whether even or odd. Median is slightly complex to use, 
+and the data set needs to be arranged in the ascending or descending order first before calculation.
+ The mean is generally used for normal distributions.
+9.
+In a scatterplot of bivariate data, we use the horizontal or "x-axis" for the explanatory variable and the vertical, or "y-axis" for the response variable.
+10.
+Cross tabulation is a method to quantitatively analyze the relationship between multiple variables. Also known as contingency tables or cross tabs, cross tabulation groups variables to understand the correlation between different variables.
+ It also shows how correlations change from one variable grouping to another.
+
+
+
+
